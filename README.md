@@ -162,9 +162,9 @@ Drive video URL:
 
 PDF File With ScreenShoots and explanation about project: https://drive.google.com/file/d/1b50UaEZsLV9OGHwJNOIY6ty4INvNC-dQ/view?usp=drivesdk
 
-working project URL: 
+working project URL: https://fayazahmed5101.github.io/Villa-agency/
 
-Azure Account ID: 
+Azure Account ID: fayaz05012001@gmail.com
 
 Acknowledgements
 My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy. Sincere appreciation to Team of Future Ready Talent who supported and encouraged us to work on this project.
