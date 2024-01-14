@@ -158,7 +158,7 @@ Technologies / Tools Used
 • Microsoft Visual Studio
 
 URLs
-Drive video URL: 
+video URL: https://youtu.be/0SCo5mqUe_0?si=Pn9zqpFcK_TyCt0p
 
 PDF File With ScreenShoots and explanation about project: https://drive.google.com/file/d/1b50UaEZsLV9OGHwJNOIY6ty4INvNC-dQ/view?usp=drivesdk
 
